@@ -17,7 +17,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.soonitoon.get-weather"
     },
     "android": {
       "adaptiveIcon": {
@@ -27,6 +28,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "it my first react-native app. you can get current weather condition with short comment.",
+    "githubUrl": "https://github.com/soonitoon/get-weather/tree/master"
   }
 }

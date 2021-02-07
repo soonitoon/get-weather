@@ -38,7 +38,7 @@ scan it!
 
 or visite my expo https://expo.io/@soonitoon
 
-## ScreeShots
+## Screeshots
 
 ![1](./README_IMG/screenshot.png)
 

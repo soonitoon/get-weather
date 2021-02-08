@@ -2,6 +2,8 @@
 
 My frist react app!🎉 It shows you simple weather condition with beautiful gradation🌈 based on your location.
 
+Visite my blog https://han.gl/aV6AM
+
 ## You can see..
 
 - weather condition
